@@ -1,2 +1,2 @@
-ollama==0.9.6
+langchain-ollama==0.9.6
 streamlit==1.47.1
